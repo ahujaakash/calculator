@@ -256,3 +256,4 @@ describe('Arithmetic', function() {
 });
 
 #Example line
+# This is a new line
